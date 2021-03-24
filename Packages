@@ -1,0 +1,18 @@
+Package: com.natunero.koya
+Architecture: iphoneos-arm
+Version: 6.4
+Section: Tweaks
+Maintainer: natunero
+Installed-Size: 316
+Depends: mobilesubstrate
+Filename: ./debs/com.natunero.koya_6.4_iphoneos-arm.deb
+Size: 132056
+MD5sum: 41de6a2796bf050699e5f0b40b48c885
+SHA1: 33c7747fc557c289d0b68c9d41760deca8124e7a
+SHA256: effc76f35ab60534fe5f851cfd9ca06fc250b7f04eb43395c7ef2ec786e5552e
+SHA512: ed4f49013220aae7aaa4de4812f4a1bab5038c337f7185a2bb023dc3e0b6b0cd2e16328a847ed6cec70d64d41f354a6f37a535a1874a21fb4aef2b9b166b1d3b
+Homepage:
+Description: Game Mod Menu by natunero!
+Name: Game Mod Menu
+Author: natunero
+
